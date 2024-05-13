@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">main_app</string>
+    <string name="add_new_startup">Add new startup</string>
+    <string name="save" />
+</resources>

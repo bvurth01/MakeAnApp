@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "218308168992",
+    "project_id": "makeanapp-26442",
+    "storage_bucket": "makeanapp-26442.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218308168992:android:cdea8cc3367e8dce555b45",
+        "android_client_info": {
+          "package_name": "com.example.main_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218308168992-nmu2ph9kgd7a2na9t4msql56sg0o55rr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMLqhVkBU6mrGqKVl8IZFtL3NUe_6bQEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218308168992-nmu2ph9kgd7a2na9t4msql56sg0o55rr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
